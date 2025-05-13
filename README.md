@@ -12,7 +12,12 @@ Over three years of experience working in front-end design and development. Free
 
 ## 💻 My works
 
-[<img src="/public/proyecto-ragazzi.png.webp" alt="ragazzi image" width="30px" height="30px" />](https://github.com/jonatanjmissora/nextjs-ragazzi-calendario)
+[<img src="/public/proyecto-ragazzi.png.webp" alt="ragazzi image"/>](https://github.com/jonatanjmissora/nextjs-ragazzi-calendario)
+[<img src="/public/proyecto-dhm.png.webp" alt="dhm image"/>](https://github.com/jonatanjmissora/nextjs-dmh-final)
+[<img src="/public/proyecto-rmphotos.png.webp" alt="rmphotos image"/>](https://github.com/jonatanjmissora/astro-rodrigo)
+[<img src="/public/proyecto-alem.png.webp" alt="alem image"/>](https://github.com/jonatanjmissora/nextjs-punto-alem)
+<img src="/public/proyecto-alba-ecommerce.png.webp" alt="alba-ecommerce image"/>
+<img src="/public/proyecto-alba-turnos.png.webp" alt="alba-turnos image"/>
 
 ## 💼 Expertice
 
