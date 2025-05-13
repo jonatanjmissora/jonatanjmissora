@@ -5,11 +5,6 @@
 ## ℹ️ About me
 Over three years of experience working in front-end design and development. Freelance from Argentina. Many years of work have given me the tools to work with and empower groups. I'm looking for a company that allows me to develop, continue learning, and grow together.
 
-## 📫 How to reach me
-
-- <img src="/public/gmail.svg" alt="gmail image" width="20px" height="20px" /> [jonatanjmissora@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=jonatanjmissora@gmail.com&su=&body=&bcc=&tf=cm)
-- <img src="/public/linkedin.svg" alt="linkedin image" width="20px" height="20px" /> [Linkedin](https://linkedin.com/in/jonatan-missora) 
-
 ## 💻 My works
 
 [<img src="/public/proyecto-ragazzi.png.webp" alt="ragazzi image"/>](https://github.com/jonatanjmissora/nextjs-ragazzi-calendario)
@@ -48,6 +43,11 @@ Over three years of experience working in front-end design and development. Free
 
 - Professional Developer at DH.
 - Back End Developer at DH.
+
+## 📫 How to reach me
+
+- <img src="/public/gmail.svg" alt="gmail image" width="20px" height="20px" /> [jonatanjmissora@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=jonatanjmissora@gmail.com&su=&body=&bcc=&tf=cm)
+- <img src="/public/linkedin.svg" alt="linkedin image" width="20px" height="20px" /> [Linkedin](https://linkedin.com/in/jonatan-missora) 
 
 ## 📝 Skills
 <img src="/public/python.svg" alt="python image" width="30px" height="30px" /> <img src="/public/react.svg" alt="react image" width="30px" height="30px" /> <img src="/public/nextjs.svg" alt="nextjs image" width="30px" height="30px" /> <img src="/public/svelte.svg" alt="svelte image" width="30px" height="30px" /> <img src="/public/astro.svg" alt="astro image" width="30px" height="30px" /> <img src="/public/prisma.svg" alt="prisma image" width="30px" height="30px" /> <img src="/public/drizzle.svg" alt="drizzle image" width="30px" height="30px" /> <img src="/public/firebase.svg" alt="firebase image" width="30px" height="30px" /> <img src="/public/supabase.svg" alt="supabase image" width="30px" height="30px" /> <img src="/public/mongodb.svg" alt="mongodb image" width="30px" height="30px" /> <img src="/public/appwrite.svg" alt="appwrite image" width="30px" height="30px" /> <img src="/public/neon.svg" alt="neon image" width="30px" height="30px" /><img src="/public/nodejs.svg" alt="nodejs image" width="30px" height="30px" /> <img src="/public/express.svg" alt="express image" width="30px" height="30px" /> <img src="/public/hono.svg" alt="hono image" width="30px" height="30px" /> <img src="/public/git.svg" alt="git image" width="30px" height="30px" /> <img src="/public/figma.svg" alt="figma image" width="30px" height="30px" />
