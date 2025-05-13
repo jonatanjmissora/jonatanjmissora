@@ -51,6 +51,4 @@ Over three years of experience working in front-end design and development. Free
 - Back End Developer at DH.
 
 ## 📝 Skills
-<img src="/public/nextjs.svg" alt="nextjs image" width="25px" height="25px" />
-
-
+<img src="/public/python.svg" alt="python image" width="50px" height="50px" /> <img src="/public/react.svg" alt="react image" width="50px" height="50px" /> <img src="/public/nextjs.svg" alt="nextjs image" width="50px" height="50px" /> <img src="/public/svelte.svg" alt="svelte image" width="50px" height="50px" /> <img src="/public/astro.svg" alt="astro image" width="50px" height="50px" /> <img src="/public/prisma.svg" alt="prisma image" width="50px" height="50px" /> <img src="/public/drizzle.svg" alt="drizzle image" width="50px" height="50px" /> <img src="/public/firebase.svg" alt="firebase image" width="50px" height="50px" /> <img src="/public/supabase.svg" alt="supabase image" width="50px" height="50px" /> <img src="/public/mongodb.svg" alt="mongodb image" width="50px" height="50px" /> <img src="/public/appwrite.svg" alt="appwrite image" width="50px" height="50px" /> <img src="/public/neon.svg" alt="neon image" width="50px" height="50px" /><img src="/public/nodejs.svg" alt="nodejs image" width="50px" height="50px" /> <img src="/public/express.svg" alt="express image" width="50px" height="50px" /> <img src="/public/hono.svg" alt="hono image" width="50px" height="50px" /> <img src="/public/git.svg" alt="git image" width="50px" height="50px" /> <img src="/public/figma.svg" alt="figma image" width="50px" height="50px" />
