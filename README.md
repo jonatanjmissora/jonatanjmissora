@@ -1,4 +1,4 @@
-picture
+<img src="/public/katodev.webp" alt="katodev image"/>
 
 ## Hello 👋, my name is Jonatan!
 
