@@ -7,8 +7,8 @@ Over three years of experience working in front-end design and development. Free
 
 ## 📫 How to reach me
 
-- [jonatanjmissora@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=jonatanjmissora@gmail.com&su=&body=&bcc=&tf=cm)<img src="/public/gmail.svg" alt="gmail image" width="15px" height="15px" /> 
-- [Linkedin](www.linkedin.com/in/jonatan-missora)<img src="/public/linkedin.svg" alt="linkedin image" width="15px" height="15px" /> 
+- <img src="/public/gmail.svg" alt="gmail image" width="20px" height="20px" /> [jonatanjmissora@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=jonatanjmissora@gmail.com&su=&body=&bcc=&tf=cm)
+- <img src="/public/linkedin.svg" alt="linkedin image" width="20px" height="20px" /> [Linkedin](www.linkedin.com/in/jonatan-missora) 
 
 ## 💻 My works
 
@@ -28,7 +28,7 @@ Over three years of experience working in front-end design and development. Free
 - Front End Developer at DH (Digital House).
 - Digital Product Managment at DH.
 - Web Designer at DH.
-- 
+  
 ### ➕ More at Digital House:
 
 - Soft Skills Trainings.
