@@ -12,8 +12,7 @@ Over three years of experience working in front-end design and development. Free
 
 ## 💻 My works
 
-<!-- <img src="/public/proyects.webp" alt="proyects image"/> -->
-[<img src="/public/python.svg" alt="python image" width="30px" height="30px" />](https://linkedin.com/in/jonatan-missora)
+[<img src="/public/proyecto-ragazzi.png.webp" alt="ragazzi image" width="30px" height="30px" />](https://github.com/jonatanjmissora/nextjs-ragazzi-calendario)
 
 ## 💼 Expertice
 
