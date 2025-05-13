@@ -12,7 +12,8 @@ Over three years of experience working in front-end design and development. Free
 
 ## 💻 My works
 
-<img src="/public/proyects.webp" alt="proyects image"/>
+<!-- <img src="/public/proyects.webp" alt="proyects image"/> -->
+[<img src="/public/python.svg" alt="python image" width="30px" height="30px" />](https://linkedin.com/in/jonatan-missora)
 
 ## 💼 Expertice
 
