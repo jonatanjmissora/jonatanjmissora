@@ -7,18 +7,12 @@ Over three years of experience working in front-end design and development. Free
 
 ## 📫 How to reach me
 
-- [jonatanjmissora@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=jonatanjmissora@gmail.com&su=&body=&bcc=&tf=cm) 
-         
-- [Linkedin](www.linkedin.com/in/jonatan-missora) 
+- [jonatanjmissora@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=jonatanjmissora@gmail.com&su=&body=&bcc=&tf=cm)<img src="/public/gmail.svg" alt="gmail image" width="15px" height="15px" /> 
+- [Linkedin](www.linkedin.com/in/jonatan-missora)<img src="/public/linkedin.svg" alt="linkedin image" width="15px" height="15px" /> 
 
 ## 💻 My works
 
-- Payment due date schedule
-- Digital Money House
-- RMPhotos landing
-- Events Hall landing
-- Beaty Center shedules
-- Beaty Care e-commerce
+<img src="/public/proyects.webp" alt="proyects image"/>
 
 ## 💼 Expertice
 
@@ -35,7 +29,7 @@ Over three years of experience working in front-end design and development. Free
 - Digital Product Managment at DH.
 - Web Designer at DH.
 - 
-### ➕ More on Digital House:
+### ➕ More at Digital House:
 
 - Soft Skills Trainings.
 - IA from cero.
@@ -51,4 +45,4 @@ Over three years of experience working in front-end design and development. Free
 - Back End Developer at DH.
 
 ## 📝 Skills
-<img src="/public/python.svg" alt="python image" width="50px" height="50px" /> <img src="/public/react.svg" alt="react image" width="50px" height="50px" /> <img src="/public/nextjs.svg" alt="nextjs image" width="50px" height="50px" /> <img src="/public/svelte.svg" alt="svelte image" width="50px" height="50px" /> <img src="/public/astro.svg" alt="astro image" width="50px" height="50px" /> <img src="/public/prisma.svg" alt="prisma image" width="50px" height="50px" /> <img src="/public/drizzle.svg" alt="drizzle image" width="50px" height="50px" /> <img src="/public/firebase.svg" alt="firebase image" width="50px" height="50px" /> <img src="/public/supabase.svg" alt="supabase image" width="50px" height="50px" /> <img src="/public/mongodb.svg" alt="mongodb image" width="50px" height="50px" /> <img src="/public/appwrite.svg" alt="appwrite image" width="50px" height="50px" /> <img src="/public/neon.svg" alt="neon image" width="50px" height="50px" /><img src="/public/nodejs.svg" alt="nodejs image" width="50px" height="50px" /> <img src="/public/express.svg" alt="express image" width="50px" height="50px" /> <img src="/public/hono.svg" alt="hono image" width="50px" height="50px" /> <img src="/public/git.svg" alt="git image" width="50px" height="50px" /> <img src="/public/figma.svg" alt="figma image" width="50px" height="50px" />
+<img src="/public/python.svg" alt="python image" width="30px" height="30px" /> <img src="/public/react.svg" alt="react image" width="30px" height="30px" /> <img src="/public/nextjs.svg" alt="nextjs image" width="30px" height="30px" /> <img src="/public/svelte.svg" alt="svelte image" width="30px" height="30px" /> <img src="/public/astro.svg" alt="astro image" width="30px" height="30px" /> <img src="/public/prisma.svg" alt="prisma image" width="30px" height="30px" /> <img src="/public/drizzle.svg" alt="drizzle image" width="30px" height="30px" /> <img src="/public/firebase.svg" alt="firebase image" width="30px" height="30px" /> <img src="/public/supabase.svg" alt="supabase image" width="30px" height="30px" /> <img src="/public/mongodb.svg" alt="mongodb image" width="30px" height="30px" /> <img src="/public/appwrite.svg" alt="appwrite image" width="30px" height="30px" /> <img src="/public/neon.svg" alt="neon image" width="30px" height="30px" /><img src="/public/nodejs.svg" alt="nodejs image" width="30px" height="30px" /> <img src="/public/express.svg" alt="express image" width="30px" height="30px" /> <img src="/public/hono.svg" alt="hono image" width="30px" height="30px" /> <img src="/public/git.svg" alt="git image" width="30px" height="30px" /> <img src="/public/figma.svg" alt="figma image" width="30px" height="30px" />
