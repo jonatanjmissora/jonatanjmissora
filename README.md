@@ -51,5 +51,6 @@ Over three years of experience working in front-end design and development. Free
 - Back End Developer at DH.
 
 ## 📝 Skills
+<img src="/public/nextjs.svg" alt="nextjs image" width="25px" height="25px" />
 
 
