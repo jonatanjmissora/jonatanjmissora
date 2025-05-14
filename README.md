@@ -3,16 +3,7 @@
 ## Hello 👋, my name is Jonatan!
 
 ## ℹ️ About me
-Over three years of experience working in front-end design and development. Freelance from Argentina. Many years of work have given me the tools to work with and empower groups. I'm looking for a company that allows me to develop, continue learning, and grow together.
-
-## 💻 My works
-
-[<img src="/public/proyecto-ragazzi.png.webp" alt="ragazzi image"/>](https://github.com/jonatanjmissora/nextjs-ragazzi-calendario)
-[<img src="/public/proyecto-dhm.png.webp" alt="dhm image"/>](https://github.com/jonatanjmissora/nextjs-dmh-final)
-[<img src="/public/proyecto-rmphotos.png.webp" alt="rmphotos image"/>](https://github.com/jonatanjmissora/astro-rodrigo)
-[<img src="/public/proyecto-alem.png.webp" alt="alem image"/>](https://github.com/jonatanjmissora/nextjs-punto-alem)
-<img src="/public/proyecto-alba-ecommerce.png.webp" alt="alba-ecommerce image"/>
-<img src="/public/proyecto-alba-turnos.png.webp" alt="alba-turnos image"/>
+Over three years of experience working in front-end design and development. Freelance from Argentina. Many years of work have given me the tools to work with and empower groups. I'm looking for a company that allows me to develop, continue learning, and grow together. My goal is to work as a Full Stack Developer.
 
 ## 💼 Expertice
 
@@ -20,7 +11,7 @@ Over three years of experience working in front-end design and development. Free
 - 2024 Astro - Svelte - NextJs - TypeScript - NodeJs - Express - Hono. Frameworks upgrade and variety, starting with back-end.
 - 2023 Bootstrap - Css superprosessors - React - Tailwindcss - Figma. Styles, componetition and design.
 - 2023 HTML - CSS - JavaScript. My first weapons in the front-end.
-- 2021 Python. First year studying a robust programming language. Tkinter and Flask
+- 2021 Python. First year studying a robust programming language. Tkinter and Flask.
 
 ## 🎓 Certifications
 
